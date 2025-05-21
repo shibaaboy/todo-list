@@ -1,0 +1,13 @@
+.todo-list {
+  flex: auto;
+  max-width: 1200px;
+  padding: 12px 24px;
+  margin: 0 auto;
+}
+
+.todo-list__filters {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 0;
+}

@@ -1,0 +1,20 @@
+.ant-list-item-meta-title {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 8px;
+    margin: 0 !important;
+}
+
+.ant-list-items {
+    border-bottom: 1px solid rgba(5,5,5,0.06)
+}
+
+.ant-list-item {
+    gap: 8px;
+}
+
+.todo-btns {
+    display: flex;
+    gap: 8px;
+}
